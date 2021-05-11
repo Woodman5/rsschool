@@ -1,2 +1,2 @@
-# rsschool
+# RS School
 RS School projects
